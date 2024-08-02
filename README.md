@@ -1,2 +1,2 @@
-# Flood-prediction-Probabaility
-ML model for predicting flood probability in scikit learn
+# Flood-Prediction-Probabaility
+ML model for predicting flood probability in scikit learn, this is a synthetically-generated dataset on Kaggle site for which I have built various regression models such as LinearRegression, Ridge, XGBoost, and ensembling models like stacking.
